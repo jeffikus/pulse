@@ -106,9 +106,7 @@ class Heartbeat_API_Pulse {
         // Do custom code here
         $data['user'] = 'User is not logged in.';
         $data['php'] = 'Sent from PHP.';
-	    $response = $data;
-
-        return $response;
+	return $data;
 
 	} // End respond_to_browser_unauthenticated()
 
@@ -122,9 +120,7 @@ class Heartbeat_API_Pulse {
         // Do custom code here
         $data['user'] = 'User is logged in.';
         $data['php'] = 'Sent from PHP.';
-        $response = $data;
-
-        return $response;
+        return $data;
 
     } // End respond_to_browser_authenticated()
 
