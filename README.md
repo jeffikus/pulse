@@ -7,8 +7,8 @@ Pulse by [Jeffikus](http://jeffikus.com/ "Jeffikus") is an example plugin for th
 
 The plugin basically does the following:
 
-* Outputs console data for a logged in user - the object will state that the user is logged in
-* Outputs console data for a non logged in user - the object will state that the user is not logged in
+* Outputs console data for a logged in user - the object will state that the user is logged in - [Console Screenshot](http://d.pr/i/22H6 "Console Screenshot")
+* Outputs console data for a non logged in user - the object will state that the user is not logged in - [Console Screenshot](http://d.pr/i/cCCs "Console Screenshot")
 
 # Why on Github and not WordPress.org
 
@@ -31,8 +31,8 @@ Credit must go to the following sites and people for making resources available:
 
 * Remi Corson - a colleague of mine at [WooThemes](http://woothemes.com/ "WooThemes") gave me my initial run through of Heartbeat at this years WordCamp Europe in between talks - www.remicorson.com
 * Pippin wrote a great starter tutorial here - http://pippinsplugins.com/using-the-wordpress-heartbeat-api/
-* WP Tuts also wrote a great 3 part series - http://wp.tutsplus.com/tutorials/creative-coding/the-heartbeat-api-getting-started/
-* The WordPress codex of course - http://codex.wordpress.org/Function_Reference/wp_heartbeat_settings
+* WP Tuts Plus also wrote a great 3 part series - http://wp.tutsplus.com/tutorials/creative-coding/the-heartbeat-api-getting-started/
+* The WordPress Codex of course - http://codex.wordpress.org/Function_Reference/wp_heartbeat_settings
 * wp-heartbeat-notify is a great example plugin - https://github.com/micc83/wp-heartbeat-notify
 * Jason Coleman also wrote a great tutorial - http://www.strangerstudios.com/blog/2013/08/heartbeat-api-for-wordpress/
 
