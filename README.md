@@ -5,9 +5,16 @@ Pulse - Heartbeat API Example Plugin
 
 Pulse by [Jeffikus](http://jeffikus.com/ "Jeffikus") is an example plugin for the Heartbeat API! It is a starting point for building your Heartbeat functionality into your WordPress powered application or plugin.
 
+The plugin basically does the following:
+
+* Outputs console data for a logged in user - the object will state that the user is logged in
+* Outputs console data for a non logged in user - the object will state that the user is not logged in
+
 # Why on Github and not WordPress.org
 
-[WordPress.org](http://wordpress.org/ "WordPress") is where your finished plugins should go (assuming they are free) while this plugin doesn't actually perform any function or add value on its own - you need to make the magic happen :-) The main reason for hosting it here is so you can easily fork it for your own projects and send me pull requests for updates/suggestions!
+[WordPress.org](http://wordpress.org/ "WordPress") is where your finished plugins should go (assuming they are free) - while this plugin doesn't actually perform any function or add value on its own - you need to make the magic happen :-)
+
+The main reason for hosting it on Github is so you can easily fork it for your own projects, and send pull requests for updates/suggestions!
 
 # What can I do with Heartbeat?
 
